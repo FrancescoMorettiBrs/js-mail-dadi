@@ -1,3 +1,14 @@
+// OBBIETTIVO
+// Chiedere la mail all'utente.
+// Stampare un messaggio appropriato sull’esito del controllo.
+
+// RAGIONAMENTO
+// Creare un prompt dove si richiede la mail all'utente
+// Creare una variabile di appoggio fuori dal ciclo for con valore booleano "false"
+// All'interno del ciclo for definire il valore di "i" e verificare se la mail dell'utente è autorizzata all'accesso
+// Infine stampare il risultato
+
+
 const emailAutorizzate = ["giovanni@gmail.com", "riccardo@gmail.com", "lucia@gmail.com", "francesco@gmail.com"];
 // console.log(emailAutorizzate);
 
